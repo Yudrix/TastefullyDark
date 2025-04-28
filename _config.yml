@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: TastefullyDark
+description: "TastefullyDark is a modern and minimalistic Jekyll theme for sleek & high-quality sites! It requires minimal setup & code while making your website look professional."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
